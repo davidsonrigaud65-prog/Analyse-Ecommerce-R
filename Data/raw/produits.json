@@ -1,0 +1,802 @@
+[
+  {
+    "produit_id": "PROD0001",
+    "nom_produit": "Adaptateur USB",
+    "categorie": "Accessoires",
+    "prix_achat": 30.63,
+    "stock_actuel": 408,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0002",
+    "nom_produit": "Manette Pro Controller",
+    "categorie": "Gaming",
+    "prix_achat": 97.79,
+    "stock_actuel": 307,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0003",
+    "nom_produit": "OnePlus Flagship",
+    "categorie": "Smartphones",
+    "prix_achat": 509.04,
+    "stock_actuel": 277,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0004",
+    "nom_produit": "Mini PC Compact",
+    "categorie": "Ordinateurs",
+    "prix_achat": 1188.76,
+    "stock_actuel": 88,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0005",
+    "nom_produit": "Mini PC Compact 1",
+    "categorie": "Ordinateurs",
+    "prix_achat": 735.13,
+    "stock_actuel": 415,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0006",
+    "nom_produit": "Cable HDMI",
+    "categorie": "Accessoires",
+    "prix_achat": 85.17,
+    "stock_actuel": 493,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0007",
+    "nom_produit": "Galaxy Note Pro",
+    "categorie": "Smartphones",
+    "prix_achat": 315.69,
+    "stock_actuel": 24,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0008",
+    "nom_produit": "Laptop Pro 15",
+    "categorie": "Ordinateurs",
+    "prix_achat": 646.5,
+    "stock_actuel": 470,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0009",
+    "nom_produit": "Enceinte Portable",
+    "categorie": "Audio",
+    "prix_achat": 241.67,
+    "stock_actuel": 290,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0010",
+    "nom_produit": "Galaxy Note Pro 1",
+    "categorie": "Smartphones",
+    "prix_achat": 210.66,
+    "stock_actuel": 423,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0011",
+    "nom_produit": "Laptop Pro 15 1",
+    "categorie": "Ordinateurs",
+    "prix_achat": 737.48,
+    "stock_actuel": 367,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0012",
+    "nom_produit": "iPhone Max",
+    "categorie": "Smartphones",
+    "prix_achat": 719.89,
+    "stock_actuel": 285,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0013",
+    "nom_produit": "Enceinte Portable 1",
+    "categorie": "Audio",
+    "prix_achat": 174.12,
+    "stock_actuel": 395,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0014",
+    "nom_produit": "Microphone Studio",
+    "categorie": "Audio",
+    "prix_achat": 86.4,
+    "stock_actuel": 158,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0015",
+    "nom_produit": "Câble Lightning",
+    "categorie": "Accessoires",
+    "prix_achat": 62.64,
+    "stock_actuel": 120,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0016",
+    "nom_produit": "All-in-One Pro",
+    "categorie": "Ordinateurs",
+    "prix_achat": 698.17,
+    "stock_actuel": 109,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0017",
+    "nom_produit": "Câble Lightning 1",
+    "categorie": "Accessoires",
+    "prix_achat": 58.39,
+    "stock_actuel": 157,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0018",
+    "nom_produit": "Webcam HD",
+    "categorie": "Accessoires",
+    "prix_achat": 97.94,
+    "stock_actuel": 63,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0019",
+    "nom_produit": "iPhone Max 1",
+    "categorie": "Smartphones",
+    "prix_achat": 635.59,
+    "stock_actuel": 482,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0020",
+    "nom_produit": "Ultrabook Air",
+    "categorie": "Ordinateurs",
+    "prix_achat": 484.33,
+    "stock_actuel": 397,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0021",
+    "nom_produit": "Ultrabook Air 1",
+    "categorie": "Ordinateurs",
+    "prix_achat": 480.85,
+    "stock_actuel": 476,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0022",
+    "nom_produit": "Enceinte Portable 2",
+    "categorie": "Audio",
+    "prix_achat": 296.23,
+    "stock_actuel": 479,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0023",
+    "nom_produit": "Écouteurs Sport",
+    "categorie": "Audio",
+    "prix_achat": 185.6,
+    "stock_actuel": 198,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0024",
+    "nom_produit": "Mini PC Compact 2",
+    "categorie": "Ordinateurs",
+    "prix_achat": 759.84,
+    "stock_actuel": 66,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0025",
+    "nom_produit": "Casque Gaming",
+    "categorie": "Audio",
+    "prix_achat": 52.28,
+    "stock_actuel": 150,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0026",
+    "nom_produit": "Carte Capture",
+    "categorie": "Gaming",
+    "prix_achat": 288.28,
+    "stock_actuel": 377,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0027",
+    "nom_produit": "Pixel Ultra",
+    "categorie": "Smartphones",
+    "prix_achat": 698.94,
+    "stock_actuel": 334,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0028",
+    "nom_produit": "Casque Gaming 1",
+    "categorie": "Audio",
+    "prix_achat": 164.45,
+    "stock_actuel": 84,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0029",
+    "nom_produit": "Adaptateur USB 1",
+    "categorie": "Accessoires",
+    "prix_achat": 95.56,
+    "stock_actuel": 164,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0030",
+    "nom_produit": "Cable HDMI 1",
+    "categorie": "Accessoires",
+    "prix_achat": 67.98,
+    "stock_actuel": 135,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0031",
+    "nom_produit": "Mini PC Compact 3",
+    "categorie": "Ordinateurs",
+    "prix_achat": 657.55,
+    "stock_actuel": 50,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0032",
+    "nom_produit": "Laptop Pro 15 2",
+    "categorie": "Ordinateurs",
+    "prix_achat": 901.01,
+    "stock_actuel": 73,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0033",
+    "nom_produit": "Microphone Studio 1",
+    "categorie": "Audio",
+    "prix_achat": 134.82,
+    "stock_actuel": 177,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0034",
+    "nom_produit": "Ecran 144Hz",
+    "categorie": "Gaming",
+    "prix_achat": 351.89,
+    "stock_actuel": 361,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0035",
+    "nom_produit": "Webcam HD 1",
+    "categorie": "Accessoires",
+    "prix_achat": 31.13,
+    "stock_actuel": 235,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0036",
+    "nom_produit": "Phone X12",
+    "categorie": "Smartphones",
+    "prix_achat": 264.91,
+    "stock_actuel": 97,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0037",
+    "nom_produit": "Carte Capture 1",
+    "categorie": "Gaming",
+    "prix_achat": 106.41,
+    "stock_actuel": 329,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0038",
+    "nom_produit": "Webcam HD 2",
+    "categorie": "Accessoires",
+    "prix_achat": 62.55,
+    "stock_actuel": 213,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0039",
+    "nom_produit": "Galaxy Note Pro 2",
+    "categorie": "Smartphones",
+    "prix_achat": 299.31,
+    "stock_actuel": 126,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0040",
+    "nom_produit": "Clavier Mécanique RGB",
+    "categorie": "Accessoires",
+    "prix_achat": 73.77,
+    "stock_actuel": 459,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0041",
+    "nom_produit": "Câble Lightning 2",
+    "categorie": "Accessoires",
+    "prix_achat": 23.24,
+    "stock_actuel": 211,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0042",
+    "nom_produit": "Galaxy Note Pro 3",
+    "categorie": "Smartphones",
+    "prix_achat": 604,
+    "stock_actuel": 173,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0043",
+    "nom_produit": "Galaxy Note Pro 4",
+    "categorie": "Smartphones",
+    "prix_achat": 409.88,
+    "stock_actuel": 272,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0044",
+    "nom_produit": "Pixel Ultra 1",
+    "categorie": "Smartphones",
+    "prix_achat": 234.92,
+    "stock_actuel": 445,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0045",
+    "nom_produit": "Hub USB-C",
+    "categorie": "Accessoires",
+    "prix_achat": 90.11,
+    "stock_actuel": 301,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0046",
+    "nom_produit": "Hub USB-C 1",
+    "categorie": "Accessoires",
+    "prix_achat": 77.28,
+    "stock_actuel": 309,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0047",
+    "nom_produit": "Adaptateur USB 2",
+    "categorie": "Accessoires",
+    "prix_achat": 21.23,
+    "stock_actuel": 418,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0048",
+    "nom_produit": "Galaxy Note Pro 5",
+    "categorie": "Smartphones",
+    "prix_achat": 299.18,
+    "stock_actuel": 231,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0049",
+    "nom_produit": "Souris Gaming Pro",
+    "categorie": "Accessoires",
+    "prix_achat": 30.71,
+    "stock_actuel": 365,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0050",
+    "nom_produit": "Ultrabook Air 2",
+    "categorie": "Ordinateurs",
+    "prix_achat": 626.28,
+    "stock_actuel": 242,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0051",
+    "nom_produit": "Cable HDMI 2",
+    "categorie": "Accessoires",
+    "prix_achat": 18.45,
+    "stock_actuel": 349,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0052",
+    "nom_produit": "Phone X12 1",
+    "categorie": "Smartphones",
+    "prix_achat": 456.46,
+    "stock_actuel": 334,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0053",
+    "nom_produit": "Clavier Gaming RGB",
+    "categorie": "Gaming",
+    "prix_achat": 281.83,
+    "stock_actuel": 279,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0054",
+    "nom_produit": "Webcam HD 3",
+    "categorie": "Accessoires",
+    "prix_achat": 29.36,
+    "stock_actuel": 112,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0055",
+    "nom_produit": "Casque Gaming 2",
+    "categorie": "Audio",
+    "prix_achat": 113.1,
+    "stock_actuel": 470,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0056",
+    "nom_produit": "Support Laptop",
+    "categorie": "Accessoires",
+    "prix_achat": 20.42,
+    "stock_actuel": 106,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0057",
+    "nom_produit": "Souris Gaming Pro 1",
+    "categorie": "Accessoires",
+    "prix_achat": 71.04,
+    "stock_actuel": 390,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0058",
+    "nom_produit": "Chaise Gaming",
+    "categorie": "Gaming",
+    "prix_achat": 390,
+    "stock_actuel": 476,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0059",
+    "nom_produit": "WorkStation Z",
+    "categorie": "Ordinateurs",
+    "prix_achat": 767.83,
+    "stock_actuel": 462,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0060",
+    "nom_produit": "Pixel Ultra 2",
+    "categorie": "Smartphones",
+    "prix_achat": 252.16,
+    "stock_actuel": 150,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0061",
+    "nom_produit": "Enceinte Portable 3",
+    "categorie": "Audio",
+    "prix_achat": 98.34,
+    "stock_actuel": 153,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0062",
+    "nom_produit": "Webcam HD 4",
+    "categorie": "Accessoires",
+    "prix_achat": 80.82,
+    "stock_actuel": 101,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0063",
+    "nom_produit": "Xiaomi Pro",
+    "categorie": "Smartphones",
+    "prix_achat": 419.86,
+    "stock_actuel": 493,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0064",
+    "nom_produit": "Câble Lightning 3",
+    "categorie": "Accessoires",
+    "prix_achat": 42.89,
+    "stock_actuel": 254,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0065",
+    "nom_produit": "Souris Gamer",
+    "categorie": "Gaming",
+    "prix_achat": 237.62,
+    "stock_actuel": 159,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0066",
+    "nom_produit": "iPhone Max 2",
+    "categorie": "Smartphones",
+    "prix_achat": 767.02,
+    "stock_actuel": 390,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0067",
+    "nom_produit": "Manette Pro Controller 1",
+    "categorie": "Gaming",
+    "prix_achat": 212.65,
+    "stock_actuel": 154,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0068",
+    "nom_produit": "Manette Pro Controller 2",
+    "categorie": "Gaming",
+    "prix_achat": 351.04,
+    "stock_actuel": 425,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0069",
+    "nom_produit": "Souris Gamer 1",
+    "categorie": "Gaming",
+    "prix_achat": 307.56,
+    "stock_actuel": 4,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0070",
+    "nom_produit": "Pixel Ultra 3",
+    "categorie": "Smartphones",
+    "prix_achat": 662.12,
+    "stock_actuel": 325,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0071",
+    "nom_produit": "Clavier Gaming RGB 1",
+    "categorie": "Gaming",
+    "prix_achat": 335.28,
+    "stock_actuel": 271,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0072",
+    "nom_produit": "Microphone Studio 2",
+    "categorie": "Audio",
+    "prix_achat": 114.27,
+    "stock_actuel": 279,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0073",
+    "nom_produit": "Clavier Gaming RGB 2",
+    "categorie": "Gaming",
+    "prix_achat": 231.58,
+    "stock_actuel": 287,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0074",
+    "nom_produit": "Hub USB-C 2",
+    "categorie": "Accessoires",
+    "prix_achat": 91.29,
+    "stock_actuel": 276,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0075",
+    "nom_produit": "Phone X12 2",
+    "categorie": "Smartphones",
+    "prix_achat": 793.45,
+    "stock_actuel": 54,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0076",
+    "nom_produit": "Housse Protection",
+    "categorie": "Accessoires",
+    "prix_achat": 50.23,
+    "stock_actuel": 330,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0077",
+    "nom_produit": "OnePlus Flagship 1",
+    "categorie": "Smartphones",
+    "prix_achat": 223.7,
+    "stock_actuel": 419,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0078",
+    "nom_produit": "Enceinte Portable 4",
+    "categorie": "Audio",
+    "prix_achat": 124.15,
+    "stock_actuel": 491,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0079",
+    "nom_produit": "Galaxy Note Pro 6",
+    "categorie": "Smartphones",
+    "prix_achat": 521.32,
+    "stock_actuel": 237,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0080",
+    "nom_produit": "Adaptateur USB 3",
+    "categorie": "Accessoires",
+    "prix_achat": 82.09,
+    "stock_actuel": 251,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0081",
+    "nom_produit": "Cable HDMI 3",
+    "categorie": "Accessoires",
+    "prix_achat": 84.89,
+    "stock_actuel": 338,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0082",
+    "nom_produit": "Microphone Studio 3",
+    "categorie": "Audio",
+    "prix_achat": 290.32,
+    "stock_actuel": 472,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0083",
+    "nom_produit": "iPhone Max 3",
+    "categorie": "Smartphones",
+    "prix_achat": 712.62,
+    "stock_actuel": 38,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0084",
+    "nom_produit": "Souris Gamer 2",
+    "categorie": "Gaming",
+    "prix_achat": 164.66,
+    "stock_actuel": 309,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0085",
+    "nom_produit": "Cable HDMI 4",
+    "categorie": "Accessoires",
+    "prix_achat": 61.24,
+    "stock_actuel": 473,
+    "fournisseur": "DigitalHub"
+  },
+  {
+    "produit_id": "PROD0086",
+    "nom_produit": "Pixel Ultra 4",
+    "categorie": "Smartphones",
+    "prix_achat": 552.18,
+    "stock_actuel": 136,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0087",
+    "nom_produit": "All-in-One Pro 1",
+    "categorie": "Ordinateurs",
+    "prix_achat": 823.91,
+    "stock_actuel": 454,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0088",
+    "nom_produit": "All-in-One Pro 2",
+    "categorie": "Ordinateurs",
+    "prix_achat": 412.93,
+    "stock_actuel": 225,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0089",
+    "nom_produit": "Desktop Gaming X",
+    "categorie": "Ordinateurs",
+    "prix_achat": 1015.43,
+    "stock_actuel": 47,
+    "fournisseur": "GadgetPro"
+  },
+  {
+    "produit_id": "PROD0090",
+    "nom_produit": "Housse Protection 1",
+    "categorie": "Accessoires",
+    "prix_achat": 68.84,
+    "stock_actuel": 76,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0091",
+    "nom_produit": "Hub USB-C 3",
+    "categorie": "Accessoires",
+    "prix_achat": 59.23,
+    "stock_actuel": 82,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0092",
+    "nom_produit": "Casque Bluetooth Pro",
+    "categorie": "Audio",
+    "prix_achat": 179.39,
+    "stock_actuel": 183,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0093",
+    "nom_produit": "iPhone Max 4",
+    "categorie": "Smartphones",
+    "prix_achat": 552.48,
+    "stock_actuel": 499,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0094",
+    "nom_produit": "Casque Bluetooth Pro 1",
+    "categorie": "Audio",
+    "prix_achat": 286.39,
+    "stock_actuel": 366,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0095",
+    "nom_produit": "Pixel Ultra 5",
+    "categorie": "Smartphones",
+    "prix_achat": 447.98,
+    "stock_actuel": 38,
+    "fournisseur": "TechSupply"
+  },
+  {
+    "produit_id": "PROD0096",
+    "nom_produit": "Hub USB-C 4",
+    "categorie": "Accessoires",
+    "prix_achat": 61.01,
+    "stock_actuel": 195,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0097",
+    "nom_produit": "Ecran 144Hz 1",
+    "categorie": "Gaming",
+    "prix_achat": 357.54,
+    "stock_actuel": 256,
+    "fournisseur": "TechSource"
+  },
+  {
+    "produit_id": "PROD0098",
+    "nom_produit": "Housse Protection 2",
+    "categorie": "Accessoires",
+    "prix_achat": 86.87,
+    "stock_actuel": 167,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0099",
+    "nom_produit": "Pixel Ultra 6",
+    "categorie": "Smartphones",
+    "prix_achat": 290.8,
+    "stock_actuel": 285,
+    "fournisseur": "ElectroWorld"
+  },
+  {
+    "produit_id": "PROD0100",
+    "nom_produit": "OnePlus Flagship 2",
+    "categorie": "Smartphones",
+    "prix_achat": 600.02,
+    "stock_actuel": 93,
+    "fournisseur": "TechSource"
+  }
+]
